@@ -3,12 +3,10 @@ header{
     color:wheat;
 }
 table{
-    background-color:rgb(10, 10, 10);
+    background-color:black;
     margin-top: 0;
-    border: solid rgb(4, 4, 4) 5px;
+    border: solid black 5px;
 }
 body{
     border: solid black 5px;
-
 }
-
